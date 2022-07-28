@@ -1,0 +1,24 @@
+{
+	"name": "product-emoji-icons",
+	"version": "0.1.0",
+	"publisher": "kalifun",
+	"icon": "images/sun-with-face.png",
+	"displayName": "Emoji Icons",
+	"description": "biu biu biu biu",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kalifun/vscode-product-emoji-icons/"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"productIconThemes": [
+			{
+				"id": "emoji-icons",
+				"label": "MiIcons",
+				"path": "./icons/product-emoji-icon-theme.json"
+			}
+		]
+	}
+}

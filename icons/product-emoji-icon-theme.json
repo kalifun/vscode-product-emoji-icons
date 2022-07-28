@@ -1,0 +1,152 @@
+{
+    "fonts": [
+        {
+            "id": "microsoft-team",
+            "src": [
+                {
+                    "path": "./microsoft-team.woff",
+                    "format": "woff"
+                }
+            ],
+            "weight": "normal",
+            "style": "normal"
+        }
+    ],
+    "iconDefinitions": {
+        "account": {
+            "fontCharacter": "👺"
+        },
+        "settings-gear": {
+            "fontCharacter": "🛠️"
+        },
+        "remote-explorer": {
+            "fontCharacter": "🧷"
+        },
+        "extensions": {
+            "fontCharacter": "📦"
+        },
+        "debug-alt": {
+            "fontCharacter": "🩺"
+        },
+        "search": {
+            "fontCharacter": "🔍"
+        },
+        "explorer-view-icon": {
+            "fontCharacter": "📝"
+        },
+        "source-control-view-icon": {
+            "fontCharacter": "🌵"
+        },
+        "close-all": {
+            "fontCharacter": "🥠"
+        },
+        "error": {
+            "fontCharacter": "💥"
+        },
+        "warning": {
+            "fontCharacter": "⚠️"
+        },
+        "close": {
+            "fontCharacter": "❌"
+        },
+        "add": {
+            "fontCharacter": "➕"
+        },
+        "plus": {
+            "fontCharacter": "➕"
+        },
+        "refresh": {
+            "fontCharacter": "🔃"
+        },
+        "new-file": {
+            "fontCharacter": "🐥"
+        },
+        "new-folder": {
+            "fontCharacter": "🐣"
+        },
+        "trash": {
+            "fontCharacter": "🗑️"
+        },
+        "chevron-up": {
+            "fontCharacter": "⚓"
+        },
+        "split-horizontal": {
+            "fontCharacter": "🌗"
+        },
+        "chevron-down": {
+            "fontCharacter": "🎈"
+        },
+        "more": {
+            "fontCharacter": "🪆"
+        },
+        "bell": {
+            "fontCharacter": "🔔"
+        },
+        "feedback": {
+            "fontCharacter": "📰"
+        },
+        "collapse-all": {
+            "fontCharacter": "🗞️"
+        },
+        "megaphone": {
+            "fontCharacter": "📣"
+        },
+        "beaker": {
+            "fontCharacter": "🧪"
+        },
+        "remote": {
+            "fontCharacter": "🚴"
+        },
+        "bell-dot": {
+            "fontCharacter": "📣"
+        },
+        "zap": {
+            "fontCharacter": "⚡️"
+        },
+        "sync": {
+            "fontCharacter": "🌀"
+        },
+        "git-branch": {
+            "fontCharacter": "🍃"
+        },
+        "toolbar-more": {
+            "fontCharacter": "🐌"
+        },
+        "terminal": {
+            "fontCharacter": "💭"
+        },
+        "terminal-powershell": {
+            "fontCharacter": "💭"
+        },
+        "clear-all": {
+            "fontCharacter": "🛹"
+        },
+        "filter": {
+            "fontCharacter": "🌈"
+        },
+        "lock": {
+            "fontCharacter": "🔒"
+        },
+        "unlock": {
+            "fontCharacter": "🔓"
+        },
+        "open-preview": {
+            "fontCharacter": "👀"
+        },
+        "tag": {
+            "fontCharacter": "🏷️"
+        },
+        "check": {
+            "fontCharacter": "✔️"
+        },
+        "list-tree": {
+            "fontCharacter": "🌴"
+        },
+        "compare-changes": {
+            "fontCharacter": "🍀"
+        },
+        "discard": {
+            "fontCharacter": "🪃"
+        }
+    }
+}
