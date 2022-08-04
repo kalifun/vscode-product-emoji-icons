@@ -74,7 +74,10 @@
             "fontCharacter": "🌗"
         },
         "chevron-down": {
-            "fontCharacter": "🎈"
+            "fontCharacter": "🐳"
+        },
+        "chevron-right": {
+            "fontCharacter": "🐋"
         },
         "more": {
             "fontCharacter": "🪆"
@@ -147,6 +150,12 @@
         },
         "discard": {
             "fontCharacter": "🪃"
-        }
+        },
+        "pin": {
+            "fontCharacter": "📌"
+        },
+        "debug-disconnect": {
+            "fontCharacter": "🐚"
+        },
     }
 }
